@@ -1,0 +1,2 @@
+geany-easyswitch-plugin
+=======================
